@@ -6,6 +6,9 @@ authors = ["sarrrrry <sarrrrry.sarrrrry@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+hydra-core = "^0.11.3"
+torch = "^1.5.0"
+torchvision = "^0.6.0"
 
 [tool.poetry.dev-dependencies]
 
