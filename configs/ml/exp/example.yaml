@@ -1,2 +1,8 @@
-db:
-  user: nameexp1
+train:
+  aa: aa
+hyper_params:
+  batch_size: 1000
+  aa: aa
+optimizer:
+  name: Adadelta
+  lr: 1e-2
